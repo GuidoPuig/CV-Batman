@@ -1,0 +1,30 @@
+header {align-items: center;}
+h1 {position: absolute;
+    width: 1013px;
+    height: 30px;
+    left: 213px;
+    top: 203px;
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 84.69%;
+    /* identical to box height, or 30px */
+    font-feature-settings: 'cpsp' on;
+    color: #005677;}
+main {max-width: 1041px;
+    margin: 50px auto; }
+h2 {position: absolute;
+    font-family: Times New Roman;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-feature-settings: 'cpsp' on;
+    color: #005677;}
+footer {
+    align-content: center;
+    background-color: #005677;
+    }
